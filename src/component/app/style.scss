@@ -1,0 +1,14 @@
+
+.App {
+  
+  height: 100%;
+  box-sizing: border-box;
+
+  .Messages {
+
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+  }
+}
